@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Elisheba Anne Berry</h1>
+<h3 align="center">Full-Stack WordPress & Shopify Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=600&lines=Full-Stack+WordPress+Developer;Full-Stack+Shopify+Developer;Ecommerce+Growth+Specialist;Conversion-Focused+Engineer" />
+</p>
 
-<!--
-**elishebaanneberry-sketch/elishebaanneberry-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building scalable, conversion-focused eCommerce solutions.<br/>
+Performance-driven. Optimization-focused. Always learning.
+</p>
 
-Here are some ideas to get you started:
+---
+I specialize in developing high-performance WordPress & Shopify stores built for scalability and growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Focus Areas:
+- eCommerce Development (WooCommerce & Shopify)
+- Performance Optimization
+- Conversion-Focused Design
+- Clean, Maintainable Code
+
+Engineering fast, secure, and scalable digital commerce experiences.
