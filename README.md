@@ -1,5 +1,5 @@
 <h1 align="center">Elisheba Anne Berry</h1>
-<h3 align="center">Full-Stack WordPress & Shopify Developer</h3>
+<h3 align="center">WordPress & Shopify Developer</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=600&lines=WordPress+Developer;Shopify+Developer;Ecommerce+Growth+Specialist;Conversion-Focused+Engineer;Web+Designer" />
 </p>
